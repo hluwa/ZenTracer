@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hluwa/ZenTracer/master/icon.png" alt="Brida Logo"/>
+  <img src="https://raw.githubusercontent.com/hluwa/ZenTracer/master/icon.png" alt="Logo"/>
 </p>
 
 ### screenshot
