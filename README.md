@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hluwa/ZenTracer/master/icon.png" alt="Brida Logo"/>
+</p>
+
+### screenshot
+![](./screenshot.png)
+
 ### problem
 	1. the commandline trace script is not intuitive, so i use the PyQt draw UI.
 	2. * maybe has some bug, please fix when using..
